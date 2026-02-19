@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi I'm Abhishek
 
-<!--
-**Abhishek2018Saxena/Abhishek2018Saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 1.  Aspiring Software Developer  
+ 2.  Currently learning Data Structures & Algorithms  
+ 3.  Exploring Git & GitHub  
+ 4.  Goal: Become a Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- C++
+- Python
+- Git & GitHub
+
+---
+
+## Current Focus
+1. Solving LeetCode problems
+2. Building projects
+3. Improving problem solving skills
+
+---
+
+Thanks for visiting my profile!
