@@ -23,3 +23,14 @@
 ---
 
 Thanks for visiting my profile!
+
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+
+##  2026 Goals
+- Solve 300+ DSA problems
+- Build 5 projects
+- Contribute to open source
