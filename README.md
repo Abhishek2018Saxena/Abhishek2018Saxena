@@ -60,6 +60,12 @@
 | 📜 **Certificate System** | Full-stack platform automating certificate generation, automated email delivery, and unique ID verification. | `JavaScript` `Node.js` `Express` `PDFkit` | [Explore ↗](https://github.com/Abhishek2018Saxena/certificate-system) |
 | 🧩 **DSA Practice** | Structured implementations of core algorithms & data structures (Arrays, Trees, Graphs, DP, Backtracking). | `C++` `DSA` `Problem Solving` | [Explore ↗](https://github.com/Abhishek2018Saxena/DSA-Practice) |
 
+<br/>
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories_(20+)-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek2018Saxena?tab=repositories)
+
+*🔍 Want to explore more? Browse all of my 20+ public repositories and ongoing projects on my [GitHub Repositories tab](https://github.com/Abhishek2018Saxena?tab=repositories).*
+
 </div>
 
 ---
